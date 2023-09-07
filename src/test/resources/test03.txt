@@ -1,0 +1,12 @@
+/root/dir1/a.txt
+/root/dir1/b.txt
+/root/dir1/c.txt
+/root/dir1/d.txt
+/root/dir2/e.txt
+/root/dir2/f.txt
+/root/dir2/g.txt
+/root/dir2/h.txt
+/root/dir3/a.txt
+/root/dir3/b.txt
+/root/dir3/c.txt
+/root/dir3/d.txt
